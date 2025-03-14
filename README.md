@@ -1,5 +1,5 @@
 # Hardeep-Singh
-Portfolio singhitguy.com
+Portfolio [httpssinghinit.com](https://singhinit.com/)
 
 As a Computer Science graduate, I excel in cloud computing platforms like AWS and Azure and am proficient in DevOps practices. My expertise extends to generative AI and cybersecurity, where I've spearheaded projects that enhance data analytics and digital security. 🌐💻 Eager to tackle new challenges, I'm on the lookout for collaborative projects in these fields and am open to work opportunities. Let's innovate together! 🔍🚀
 
